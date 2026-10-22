@@ -1,0 +1,6 @@
+invoice_id,customer,amount_usd,date
+INV-101,Acme,4000,2026-07-03
+INV-102,Beta,2500,2026-07-19
+INV-103,Gamma,1500,2026-08-02
+INV-102,Beta,2500,2026-07-19
+INV-104,Delta,3000,2026-09-12

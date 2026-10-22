@@ -1,0 +1,14 @@
+{
+  "name": "launchism",
+  "owner": {
+    "name": "Launchism"
+  },
+  "description": "Launchism plugins for Claude.",
+  "plugins": [
+    {
+      "name": "launchism",
+      "source": "./",
+      "description": "Keeps your decisions, reviews the work before you see it, works from a plan, reports plainly."
+    }
+  ]
+}

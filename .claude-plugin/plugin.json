@@ -1,0 +1,18 @@
+{
+  "name": "launchism",
+  "displayName": "Launchism",
+  "version": "0.1.0",
+  "description": "Makes Claude keep your decisions in your own words, check its own work with a fresh reviewer before you see it, work from a written plan, and report to you in plain words. Free, from Launchism.",
+  "author": {
+    "name": "Tzvika Besor"
+  },
+  "keywords": [
+    "memory",
+    "decisions",
+    "review",
+    "planning",
+    "founders",
+    "non-coders"
+  ],
+  "license": "MIT"
+}

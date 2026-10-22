@@ -1,0 +1,5 @@
+date,customer,amount,type
+2026-07-03,Acme,4000,invoice
+2026-08-15,Beta,5000,invoice
+2026-09-01,Beta,-5000,refund
+2026-09-12,Gamma,2000,invoice
